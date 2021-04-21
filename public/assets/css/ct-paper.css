@@ -67,6 +67,11 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .title-uppercase {
   text-transform: uppercase; }
 
+.size {
+	height: 800px;
+	width: 1250px;
+}
+
 blockquote {
   font-style: italic; }
 
